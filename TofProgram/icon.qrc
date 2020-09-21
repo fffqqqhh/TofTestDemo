@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/winicon">
+        <file>image/CatToiletProductTest.ico</file>
+    </qresource>
+</RCC>
